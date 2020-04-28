@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/web-semanaomnistack10/static/css/main.f794163c.chunk.css",
+    "main.js": "/web-semanaomnistack10/static/js/main.a0775ccf.chunk.js",
+    "main.js.map": "/web-semanaomnistack10/static/js/main.a0775ccf.chunk.js.map",
+    "runtime-main.js": "/web-semanaomnistack10/static/js/runtime-main.53fea537.js",
+    "runtime-main.js.map": "/web-semanaomnistack10/static/js/runtime-main.53fea537.js.map",
+    "static/js/2.d647aa2a.chunk.js": "/web-semanaomnistack10/static/js/2.d647aa2a.chunk.js",
+    "static/js/2.d647aa2a.chunk.js.map": "/web-semanaomnistack10/static/js/2.d647aa2a.chunk.js.map",
+    "index.html": "/web-semanaomnistack10/index.html",
+    "precache-manifest.1d85b1edca40d3a42aaaeb8b967d7144.js": "/web-semanaomnistack10/precache-manifest.1d85b1edca40d3a42aaaeb8b967d7144.js",
+    "service-worker.js": "/web-semanaomnistack10/service-worker.js",
+    "static/css/main.f794163c.chunk.css.map": "/web-semanaomnistack10/static/css/main.f794163c.chunk.css.map",
+    "static/js/2.d647aa2a.chunk.js.LICENSE": "/web-semanaomnistack10/static/js/2.d647aa2a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53fea537.js",
+    "static/js/2.d647aa2a.chunk.js",
+    "static/css/main.f794163c.chunk.css",
+    "static/js/main.a0775ccf.chunk.js"
+  ]
+}
